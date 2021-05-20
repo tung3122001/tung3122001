@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Thanh Tung
+#I'm Thanh Tung
+---
+
+[Facebook](https://www.facebook.com/graythegenuinee/)
+
+- 👋 Hi
 - 👀 I’m interested in Korean Songs
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on 
